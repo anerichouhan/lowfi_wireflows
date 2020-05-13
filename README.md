@@ -32,3 +32,8 @@ The blue arrows indicates elements connecting to new screens. The Pink arrows co
 ![Wireflow 2](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0412.JPG)
 ![Wireflow 3](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0413.JPG)
 
+## Testing
+I tested the wireframes with a user and observed as they completed tasks. The yellow highlights indicate what the user clicked on. The number next to it shows the order in which they clicked on elements. The orange comments denote user confusion points and questions. 
+
+![test](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0414.JPG)
+
