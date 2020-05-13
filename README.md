@@ -16,5 +16,17 @@ I pieced together some wireframes, mapped out how they would connect into a flow
 - Filtering articles by length, date, author, etc.
 - **Saving articles & viewing saved articles in a personal library**
 
+## Wireframes
+
+Here are the initial wireframes
+
+![Wireframe 1](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0408.JPG)
+![Wireframe 2](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0409.JPG)
+![Wireframe 3](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0410.JPG)
+
+## Wireflows
+The blue arrows indicates elements connecting to new screens. The Pink arrows connect backwards.
+
+
 
 
