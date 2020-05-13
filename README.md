@@ -40,9 +40,11 @@ I tested the wireframes with a user and observed as they completed tasks. The ye
 ## Reflection
 
 **The process**
+
 In general, the test went pretty smoothly. While clicking on paper can be unintuitive to a user, the user remain engaged and went through the all the tasks. I do wish I made the wireframes on blank paper as opposed to ruled paper so that the scans would look clearer. However, I had to make do with what I had. The user asked me quite a few questions about what should happen upon clicking on certain elements on the screens. I tried to turn the question around and ask them what they expected in order to get more insights out of the situation. 
 
 **Changes**
+
 Testing with the user helped me identify several places for improvement. 
 - While testing, I learned that it was difficult to find the personal library feature. Going forward, I will try to make it more discoverable and accessible by perhaps changing where it can be accessed from. 
 - On the library page, the topics feature is under filters. Whereas on the topics main page, it is separate from filters. This inconsistency may lead to confusion in the user's mind. I could imlpement a different way that showcases the two features in the same manner across pages.
