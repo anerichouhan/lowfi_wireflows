@@ -28,5 +28,7 @@ Here are the initial wireframes
 The blue arrows indicates elements connecting to new screens. The Pink arrows connect backwards.
 
 
-
+![Wireflow 1](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0411.JPG)
+![Wireflow 2](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0412.JPG)
+![Wireflow 3](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0413.JPG)
 
